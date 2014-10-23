@@ -1,6 +1,6 @@
 <?php 
 $emailTo = 'csdgrevolution@gmail.com';
-$siteTitle = 'CreativeStar Deizgn Group';
+$siteTitle = 'CreativeStar Dezign Group';
 
 error_reporting(E_ALL ^ E_NOTICE); // hide all basic notices from PHP
 
